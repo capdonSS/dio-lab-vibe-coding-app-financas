@@ -76,7 +76,7 @@ O app foi gerado a partir de um **PRD (Product Requirements Document)** enviado 
 | Etapa | Imagem |
 |---|---|
 | Envio do PRD ao Lovable | ![PRD no Lovable](docs/images/01-prd-lovable.png) |
-| Perguntas de esclarecimento da IA | ![Perguntas](docs/images/02-perguntas.png) |
+| Perguntas de esclarecimento da IA | ![Perguntas](docs/images/Captura de tela 2026-11-01 230234.png) |
 | Página inicial | ![Home](docs/images/03-home.png) |
 | Conversa com a Tina | ![Chat](docs/images/04-chat-tina.png) |
 | Painel financeiro | ![Painel](docs/images/05-painel.png) |
